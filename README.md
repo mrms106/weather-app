@@ -1,1 +1,1 @@
-wheather project
+Displaying a Current weather 
