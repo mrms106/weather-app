@@ -1,8 +1,8 @@
 const request=require("request");
 
 const openwhetherMap={
-    BASE_URL: "https://api.openweathermap.org/data/2.5/weather?q=",
-    SECRET_KEY:"843aa884e96825162af9e803fb664403"
+    BASE_URL: "enter url",
+    SECRET_KEY:"enter secret key"
 }
 const weatherData=(address,callback)=>{
     const url=openwhetherMap.BASE_URL+
